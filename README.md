@@ -10,4 +10,4 @@ This was an assignment made by [Trybe](www.betrybe.com) in order to test my skil
 
 The end result was expected to be similar to the GIF below:
 
-"[Project Gif](./out.gif)
+![Project Gif](./out.gif)
