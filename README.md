@@ -22,3 +22,4 @@ In this project, I was able to:
 
 ### Evaluator Results
 
+![Evaluator Results](./trybe-results-shopping-cart.png)
