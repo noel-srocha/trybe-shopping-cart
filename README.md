@@ -2,7 +2,7 @@
 
 Hello and welcome to the Shopping Cart project!
 
-This was an assignment made by [Trybe](www.betrybe.com) in order to test my skills with HTML, CSS and JavaScript, this time consuming [Mercado Livre](www.mercadolivre.com)'s API through the endpoint below:
+This was an assignment made by [Trybe](https://www.betrybe.com) in order to test my skills with HTML, CSS and JavaScript, this time consuming [Mercado Livre](https://www.mercadolivre.com)'s API through the endpoint below:
 
 ```javascript
 "https://api.mercadolibre.com/sites/MLB/search?q=$QUERY"
